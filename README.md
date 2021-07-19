@@ -36,32 +36,31 @@ Ejercicios del TP5 de laboratorio
 2.28) Dado un vector V de n componentes enteras (n<=30), genere e imprima 2 vectores VP y VI que contenga respectivamente las componentes de índices pares e impares respectivamente.
 2.29) Considere el caso inverso al del problema anterior. Se dan como dato los vectores VP y VI que contienen respectivamente las componentes pares e impares de un vector V. Reconstruir el vector V.
 2.30) Se lee un número no determinado de veces una terna formada por legajo (int), edad (entero) y sueldo (real). El fin del lote se indica con un legajo = -1. Se desea emitir: 
-- el legajo del más joven
-- el sueldo promedio de quienes tengan entre 20 y 30 años
-- el legajo del último de la lista
+    - el legajo del más joven
+    - el sueldo promedio de quienes tengan entre 20 y 30 años
+    - el legajo del último de la lista
 2.31) Se ingresa un número no determinado de veces una terna formada por legajo (int), sexo (carácter m o f), y edad. Se desea emitir 
-- el legajo de la mujer más joven
-- el legajo del varón más viejo
-- el promedio de edades de quienes tengan nombre con inicial 'j' o ‘J’.
-2.32) Se ingresan, para cada alumno de un curso, su número de legajo y las seis notas correspondientes a las materias rendidas en el año. Para finalizar, se ingresa el número de legajo 0. 
-La computadora debe emitir los números de legajo de los tres alumnos con el mejor promedio. Si hay más de tres alumnos con el mismo promedio máximo, debe emitir un mensaje. 
+    - el legajo de la mujer más joven
+    - el legajo del varón más viejo
+    - el promedio de edades de quienes tengan nombre con inicial 'j' o ‘J’.
+2.32) Se ingresan, para cada alumno de un curso, su número de legajo y las seis notas correspondientes a las materias rendidas en el año. Para finalizar, se ingresa el número de legajo 0. La computadora debe emitir los números de legajo de los tres alumnos con el mejor promedio. Si hay más de tres alumnos con el mismo promedio máximo, debe emitir un mensaje. 
 2.33) Se ingresan valores numéricos no nulos. El fin de los datos se indica ingresando un 0. La computadora debe emitir el valor del mayor número ingresado e indicar cuántas veces apareció en la lista. 
 2.34) Se ingresa una lista de pares ordenados (número de socio, edad). El último es ('*', 0). La computadora debe indicar cuántas personas tienen más de 18 años y menos de 65, el número de socio del mayor y del menor. 
 2.35) Se ingresa una lista de ternas (legajo, curso, nota). El fin de los datos se indica ingresando el legajo ==-1. La computadora debe mostrar 
-- el legajo del alumno de menor nota
-- el promedio de los alumnos que obtuvieron notas entre 4 y 7 (inclusive)
-- el legajo del alumno que aparecería último si la lista estuviera ordenada por legajo y su curso.
+    - el legajo del alumno de menor nota
+    - el promedio de los alumnos que obtuvieron notas entre 4 y 7 (inclusive)
+    - el legajo del alumno que aparecería último si la lista estuviera ordenada por legajo y su curso.
 2.36) Se ingresa una lista de ternas (legajo, edad, sexo). El fin de los datos se indica ingresando el legajo == -1. La computadora debe indicar 
-- si en la lista hay hombres de más de 90 años
-- en caso afirmativo cuántos
-- mostrar el legajo de la mujer más joven
-- la edad promedio de los hombres 
+    - si en la lista hay hombres de más de 90 años
+    - en caso afirmativo cuántos
+    - mostrar el legajo de la mujer más joven
+    - la edad promedio de los hombres 
 2.37) Durante el día, una farmacia ingresa los importes de sus ventas. Junto a cada importe, se ingresa una 'C', si la venta fue realizada con descuento por obra social, o una 'S', si la venta fue sin descuento. Al final del día, se ingresa una venta negativa. La computadora muestra el monto total de las ventas del día y el porcentaje de clientes que compraron con descuento. 
 2.38) Se lee un número no determinado de veces un legajo, una edad (entero) y un grupo de 4 números reales correspondientes a sueldos. El fin de datos se indica con legajo -1, y no se lee edad ni sueldos en ese caso. Se desea emitir el mayor sueldo promedio cobrado por personas de entre 20 y 30 años inclusive, y el legajo de quien lo haya cobrado. Si hay varias personas en esa situación, emitir los datos de la última que verifique la condición.
 2.39) Se lee un número no determinado de veces estos datos: legajo, edad (entero), sueldo (real), sexo (carácter M o F). El fin de datos se indica con legajo  -1. Se quiere determinar: 
-- promedio de edad de los hombres.                                  
-- legajo de la mujer que cobre el mayor sueldo, y valor del sueldo                            
-- cuántos juegos de datos fueron procesados.
+    - promedio de edad de los hombres.                                  
+    - legajo de la mujer que cobre el mayor sueldo, y valor del sueldo                            
+    - cuántos juegos de datos fueron procesados.
 2.40) Se lee un número N y luego N grupos de 5 números reales. Se desea conocer la posición del grupo de 5 números cuya suma fue mayor. Emitir ese resultado.
 Realizar también una prueba de escritorio para este ejercicio. (Reducir el número de elementos por grupo para la prueba).
 2.41) Prepara un programa que permita imprimir cada una de las sucesiones numéricas que se presentan a continuación: (No se puede utilizar más de 2 ciclos repetitivos, los que se utilicen deben anidarse).
